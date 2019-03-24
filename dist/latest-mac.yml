@@ -1,0 +1,12 @@
+version: 0.0.1
+files:
+  - url: myToDos-0.0.1-mac.zip
+    sha512: pXYE2/+5S1NyD+jO9ckymK4yIuhlbzfLf9paib/877ErpaBAY39wgnGvWEdqxq8unUs8ms6MgEhzaaQNGolV9g==
+    size: 52433292
+    blockMapSize: 55870
+  - url: myToDos-0.0.1.dmg
+    sha512: dCxkD6zZow4nTXnP4li1biCLd2CvGrNDy7OMBOjf+bPMKd0x5kVrqcplPNySEgUENl0LGIvmJkd/s6ZVPOrg/w==
+    size: 54074776
+path: myToDos-0.0.1-mac.zip
+sha512: pXYE2/+5S1NyD+jO9ckymK4yIuhlbzfLf9paib/877ErpaBAY39wgnGvWEdqxq8unUs8ms6MgEhzaaQNGolV9g==
+releaseDate: '2019-03-24T00:29:51.900Z'

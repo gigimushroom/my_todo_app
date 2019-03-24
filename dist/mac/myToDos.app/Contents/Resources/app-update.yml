@@ -1,0 +1,4 @@
+owner: gigimushroom
+repo: my_todo_app
+provider: github
+updaterCacheDirName: mytodos-updater
